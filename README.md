@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Zelis<br>🤝 Passionate about problem-solving and creating innovative solutions. Dedicated to continuous learning and staying up-to-date with the latest technologies. Ready to make a positive impact in the tech industry!<br>🌱 Constantly seeking new ways to apply AI and machine learning to real-world scenarios. <br>
+🔭 I’m currently working as Data Engineer in Zelis<br>🤝 Passionate about problem-solving and creating innovative solutions. Dedicated to continuous learning and staying up-to-date with the latest technologies. Ready to make a positive impact in the tech industry!<br>🌱 Constantly seeking new ways to apply AI and machine learning to real-world scenarios. <br>
 
 
 ## 🌐 Socials:
