@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Data Engineer with experience building scalable ETL/ELT pipelines, cloud data platforms, and enterprise analytics solutions using Snowflake, Azure Data Factory, DBT, SQL, and Python.<br>
-⚡ Skilled in workflow orchestration, API integrations, data modeling, automation, and analytics engineering for large-scale data systems.<br>
+⚡ Skilled in workflow orchestration, API integrations, data modeling, and analytics engineering for large-scale data systems.<br>
 🤝 Passionate about solving real-world problems through data, automation, and AI-driven solutions. Continuously learning and exploring modern data engineering and machine learning technologies.<br>
 
 
