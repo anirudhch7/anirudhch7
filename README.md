@@ -3,7 +3,6 @@
 ⚡ Skilled in workflow orchestration, API integrations, data modeling, and analytics engineering for large-scale data systems.<br>
 🤝 Passionate about solving real-world problems through data, automation, and AI-driven solutions. Continuously learning and exploring modern data engineering and machine learning technologies.<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chavalianirudh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chavalianirudh7@gmail.com) 
 
